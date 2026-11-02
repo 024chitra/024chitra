@@ -61,7 +61,6 @@ Beyond coding, I enjoy studying **human nature and psychology** , exploring **We
   <img alt="github-snake" src="https://raw.githubusercontent.com/0ychitra/0ychitra/output/github-snake.svg" />
 
 </picture>
-</p>
 
 ---
 
