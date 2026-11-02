@@ -4,7 +4,7 @@
 
 </p>
 
-## 🚀 About Me
+###  About Me
 
 <p>
 
@@ -16,7 +16,7 @@ Beyond coding, I enjoy studying **human nature and psychology** , exploring **We
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,py,react,nodejs,express,mongodb&perline=10" />
@@ -29,7 +29,7 @@ Beyond coding, I enjoy studying **human nature and psychology** , exploring **We
 <p>
 
 > Primary IDE : VS Code <br>
-AI Coding Tools : Cursor, Claude Code, ChatGPT
+> AI Coding Tools : Cursor, Claude Code, ChatGPT
 
 ### Languages : JavaScript, TypeScript, Python, HTML5, CSS3, SQL
 
@@ -40,30 +40,23 @@ AI Coding Tools : Cursor, Claude Code, ChatGPT
 ### Database : MongoDB, PostgreSQL
 
 ### Tools : Git, GitHub, Notion, Vercel, Postman, Linux
+
 </p>
 
 ---
 
-## 📚 Currently Learning
+### 📈 GitHub Stats
 
-* **AI-powered MERN Stack**
-* Next.js
-* **System Design**
-* Clean Architecture
-* Docker
+<div align = "center" >
+  <img src="https://streak-stats.demolab.com?user=0ychitra&theme=highcontrast&hide_border=true" height = "165" />
+  <img src = "https://github-stats-extended.vercel.app/api?username=0ychitra&show_icons=true&theme=highcontrast&hide_border=true" height = "165" />
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=0ychitra&theme=dark&hide_border=true"/> <br>
-
+</div>
 <picture>
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chitrabit/0ychitra/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0ychitra/0ychitra/output/github-snake-dark.svg" />
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chitrabit/0ychitra/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0ychitra/0ychitra/output/github-snake.svg" />
 
   <img alt="github-snake" src="https://raw.githubusercontent.com/0ychitra/0ychitra/output/github-snake.svg" />
 
@@ -72,14 +65,14 @@ AI Coding Tools : Cursor, Claude Code, ChatGPT
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
-* Mail: <a href="mailto:withchitra@gmail.com">withchitra@gmail.com</a>
-* Github: <a href="https://github.com/0ychitra">0ychitra</a>
-* LinkedIn: <a href="https://www.linkedin.com/in/chittaranjanbora/">Chittaranjan Bora</a>
-* X (Twitter): <a href="https://x.com/0ychitra">0ychitra</a>
-* Thread: <a href="https://www.threads.com/@0ychitra">0ychitra</a>
-* BlueSky: <a href="https://bsky.app/profile/chitrabit.bsky.social">chitrabit.bsky.social</a> 
+- Mail: <a href="mailto:withchitra@gmail.com">withchitra@gmail.com</a>
+- Github: <a href="https://github.com/0ychitra">0ychitra</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/chittaranjanbora/">Chittaranjan Bora</a>
+- X (Twitter): <a href="https://x.com/0ychitra">0ychitra</a>
+- Thread: <a href="https://www.threads.com/@0ychitra">0ychitra</a>
+- BlueSky: <a href="https://bsky.app/profile/chitrabit.bsky.social">chitrabit.bsky.social</a>
 
 ---
 
