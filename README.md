@@ -67,11 +67,11 @@ Beyond coding, I enjoy studying **human nature and psychology** , exploring **We
 ### 🤝 Connect With Me
 
 - Mail: <a href="mailto:024chitra@gmail.com">024chitra@gmail.com</a>
-- Github: <a href="https://github.com/024chitra">024chitra</a>
+- Github: <a href="https://github.com/024chitra">@024chitra</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/024chitra/">Chittaranjan Bora</a>
-- X (Twitter): <a href="https://x.com/024chitra">024chitra</a>
-- Thread: <a href="https://www.threads.com/@024chitra">024chitra</a>
-- BlueSky: <a href="https://bsky.app/profile/024chitra.bsky.social">024chitra.bsky.social</a>
+- X (Twitter): <a href="https://x.com/024chitra">@024chitra</a>
+- Thread: <a href="https://www.threads.com/@024chitra">@024chitra</a>
+- BlueSky: <a href="https://bsky.app/profile/024chitra.bsky.social">@024chitra.bsky.social</a>
 
 ---
 
