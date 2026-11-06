@@ -48,17 +48,17 @@ Beyond coding, I enjoy studying **human nature and psychology** , exploring **We
 ### 📈 GitHub Stats
 
 <div align = "center" >
-  <img src="https://streak-stats.demolab.com?user=0ychitra&theme=dark&hide_border=true" height = "165" />
-  <img src = "https://github-stats-extended.vercel.app/api?username=0ychitra&show_icons=true&theme=highcontrast&hide_border=true" height = "165" />
+  <img src="https://streak-stats.demolab.com?user=024chitra&theme=dark&hide_border=true" height = "165" />
+  <img src = "https://github-stats-extended.vercel.app/api?username=024chitra&show_icons=true&theme=highcontrast&hide_border=true" height = "165" />
 
 </div>
 <picture>
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0ychitra/0ychitra/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/024chitra/024chitra/output/github-snake-dark.svg" />
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0ychitra/0ychitra/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/024chitra/024chitra/output/github-snake.svg" />
 
-  <img alt="github-snake" src="https://raw.githubusercontent.com/0ychitra/0ychitra/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/024chitra/024chitra/output/github-snake.svg" />
 
 </picture>
 
@@ -66,12 +66,12 @@ Beyond coding, I enjoy studying **human nature and psychology** , exploring **We
 
 ### 🤝 Connect With Me
 
-- Mail: <a href="mailto:withchitra@gmail.com">withchitra@gmail.com</a>
-- Github: <a href="https://github.com/0ychitra">0ychitra</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/chittaranjanbora/">Chittaranjan Bora</a>
-- X (Twitter): <a href="https://x.com/0ychitra">0ychitra</a>
-- Thread: <a href="https://www.threads.com/@0ychitra">0ychitra</a>
-- BlueSky: <a href="https://bsky.app/profile/chitrabit.bsky.social">chitrabit.bsky.social</a>
+- Mail: <a href="mailto:024chitra@gmail.com">024chitra@gmail.com</a>
+- Github: <a href="https://github.com/024chitra">024chitra</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/024chitra/">Chittaranjan Bora</a>
+- X (Twitter): <a href="https://x.com/024chitra">024chitra</a>
+- Thread: <a href="https://www.threads.com/@024chitra">024chitra</a>
+- BlueSky: <a href="https://bsky.app/profile/024chitra.bsky.social">024chitra.bsky.social</a>
 
 ---
 
