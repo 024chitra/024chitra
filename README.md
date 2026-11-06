@@ -19,11 +19,11 @@ Beyond coding, I enjoy studying **human nature and psychology** , exploring **We
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,py,react,nodejs,express,mongodb&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,py,react,vue,nodejs,express&perline=10" />
 </p>
 
 <p align="center">
-  <img  src="https://skillicons.dev/icons?i=postgres,git,github,vscode,notion,vercel,postman,linux,docker&perline=9" />
+  <img  src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode,vercel,postman,linux,docker&perline=9" />
 </p>
 
 <p>
@@ -31,15 +31,10 @@ Beyond coding, I enjoy studying **human nature and psychology** , exploring **We
 > Primary IDE : VS Code <br>
 > AI Coding Tools : Cursor, Claude Code, ChatGPT
 
-### Languages : JavaScript, TypeScript, Python, HTML5, CSS3, SQL
-
-### Frontend : React, Next.js, Tailwind CSS
-
-### Backend : Node.js, Express.js
-
-### Database : MongoDB, PostgreSQL
-
-### Tools : Git, GitHub, Notion, Vercel, Postman, Linux
+<b>Languages:</b> JavaScript, TypeScript, Python <br>
+<b>Frameworks & Libraries :</b> Tailwind CSS, React.Js, Vue.Js, Express.js <br>
+<b>Database:</b> MongoDB, PostgreSQL <br>
+<b>Tools & Techs:</b> Git, Github, Vercel, VScode, Cursor, Linux(Ubuntu), Postman
 
 </p>
 
