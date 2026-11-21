@@ -42,11 +42,6 @@ Beyond coding, I enjoy studying **human nature and psychology** , exploring **We
 
 ### 📈 GitHub Stats
 
-<div align = "center" >
-  <img src="https://streak-stats.demolab.com?user=024chitra&theme=dark&hide_border=true" height = "165" />
-  <img src = "https://github-stats-extended.vercel.app/api?username=024chitra&show_icons=true&theme=highcontrast&hide_border=true" height = "165" />
-
-</div>
 <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/024chitra/024chitra/output/github-snake-dark.svg" />
