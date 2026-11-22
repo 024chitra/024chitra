@@ -4,7 +4,7 @@
 
 </p>
 
-###  About Me
+### About Me
 
 <p>
 
@@ -43,8 +43,7 @@ Beyond coding, I enjoy studying **human nature and psychology** , exploring **We
 ### 📈 GitHub Stats
 
 <div align = "center" >
-  <img src="https://streak-stats.demolab.com?user=024chitra&theme=dark&hide_border=true" height = "165" />
-  <img src = "https://github-stats-extended.vercel.app/api?username=024chitra&show_icons=true&theme=highcontrast&hide_border=true" height = "165" />
+  <img src="https://ghstats.dev/api/card?username=024chitra&theme=nord&border_radius=20&hide=hours%2Cfollowers%2Ctrend%2Cavg%2Cactive_day%2Cstreak%2Crepos%2Cgrade" height = "180" />
 
 </div>
 <picture>
